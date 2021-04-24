@@ -12,8 +12,6 @@ My research interest lies in the intersection of causal inference and machine le
 Currently I am a [Msc in Machine Learning](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/machine-learning-msc) student at University College London (UCL). Previously I studied [Mathematics](https://www.maths.cam.ac.uk/) (Bsc + MMath) at University of Cambridge and worked as a Quantitative Strategist at [Goldman Sachs International](https://www.goldmansachs.com/).
 
 # Contact
-I am always open to interesting projects (or if you just want to grab a coffee), please feel free to contact me:
-### Email me at [syg26@cantab.ac.uk](mailto:syg26@cantab.ac.uk)
-### Wechat me at sygv26
+I am always open to interesting projects (or if you just want to grab a coffee), please feel free to send me an email at [syg26@cantab.ac.uk](mailto:syg26@cantab.ac.uk) or wechat me at [sygv26]
 
 
