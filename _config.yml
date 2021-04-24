@@ -13,8 +13,8 @@ author: Siyuan Guo
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"
+# navbar-links:
+  # About Me: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -85,10 +85,10 @@ url-pretty: "siyuanguo.github.io"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: false
+feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
