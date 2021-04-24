@@ -5,7 +5,7 @@ layout: page
 
 {% include header.html type="page" %}
 
-{% assign pages = site.pages %}
+{% assign pages = paginator.pages | default: site.pages %}
 <div class = "aboutme">
   {% for page in pages %>
   <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
