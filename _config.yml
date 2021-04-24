@@ -38,11 +38,11 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "syg26@cantab.ac.uk"
+#social-network-links:
+  #email: "syg26@cantab.ac.uk"
   #facebook: deanattali
-  github: syguo96
-  wechat: sygv26
+  #github: syguo96
+  #wechat: sygv26
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
