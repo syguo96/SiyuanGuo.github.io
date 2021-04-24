@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-
-{% include aboutme.md %}
+{{contents}}
+{% include_relative aboutme.md %}
 
 
 {% assign posts = paginator.posts | default: site.posts %}
