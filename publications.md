@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data 
-Siyuan Guo*, Viktor Tóth*, Bernhard Schölkopf, Ferenc Huszár (2021)
+Siyuan Guo^*, Viktor Tóth^*, Bernhard Schölkopf, Ferenc Huszár (2021)
 #### Abstract
 Learning invariant causal structure often relies on conditional independence testing and assumption of independent and identically distributed data. Recent work has explored inferring invariant causal
 structure using data coming from different environments. These approaches are based on independent causal mechanism (ICM) principle which postulates that the cause mechanism is independent of
