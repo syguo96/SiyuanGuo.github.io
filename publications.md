@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-### [Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data](https://arxiv.org/pdf/2203.15756.pdf)
+### Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data [pdf](https://arxiv.org/pdf/2203.15756.pdf)
 Siyuan Guo*, Viktor Tóth*, Bernhard Schölkopf, Ferenc Huszár (2021)
 #### Abstract
 Learning invariant causal structure often relies on conditional independence testing and assumption of independent and identically distributed data. Recent work has explored inferring invariant causal
@@ -13,7 +13,7 @@ machine learning and causal inference, there lacks a statistical formalization o
 Causal de Finetti which offers a first statistical formalization of ICM
 principle. 
 
-### [Teams Frightened of Failure Fail More: Modelling Reward Sensitivity in Teamwork](https://discovery.ucl.ac.uk/id/eprint/10124666/1/SSCI20_Frightened_Teams_Fail_More.pdf)
+### Teams Frightened of Failure Fail More: Modelling Reward Sensitivity in Teamwork [pdf](https://discovery.ucl.ac.uk/id/eprint/10124666/1/SSCI20_Frightened_Teams_Fail_More.pdf)
 Siyuan Guo, Soo Ling Lim, Peter J. Bentley
 
 Accepted at IEEE Symposium Series on Computational Intelligence (SSCI 2020)
