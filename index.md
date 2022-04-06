@@ -12,7 +12,7 @@ My research interest lies in the intersection of causal inference and machine le
 In previous life, I was a [Msc in Machine Learning](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/machine-learning-msc) student at University College London (UCL) and studied [Mathematics](https://www.maths.cam.ac.uk/) (Bsc + MMath) at University of Cambridge. I also used to work as a Quantitative Strategist at [Goldman Sachs International](https://www.goldmansachs.com/).
 
 # Publications
-Please see my publication list [here](https://siyuanguo.com/publications/).
+Please see my publication list [here](https://siyuanguo.com/publications/) or visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GRGyzn4AAAAJ).
 
 # Contact
 You are welcome to send me an email at [syg26@cantab.ac.uk](mailto:syg26@cantab.ac.uk). 
