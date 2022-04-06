@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Siyuan Guo
-subtitle: An Enthusiastic AI Researcher
+subtitle: Machine Learning Researcher
 ---
 
 # About Me
