@@ -13,7 +13,7 @@ machine learning and causal inference, there lacks a statistical formalization o
 Causal de Finetti which offers a first statistical formalization of ICM
 principle. 
 
-### Teams Frightened of Failure Fail More: Modelling Reward Sensitivity in Teamwork [pdf](https://discovery.ucl.ac.uk/id/eprint/10124666/1/SSCI20_Frightened_Teams_Fail_More.pdf)
+### Teams Frightened of Failure Fail More: Modelling Reward Sensitivity in Teamwork [[pdf]](https://discovery.ucl.ac.uk/id/eprint/10124666/1/SSCI20_Frightened_Teams_Fail_More.pdf)
 Siyuan Guo, Soo Ling Lim, Peter J. Bentley
 
 Accepted at IEEE Symposium Series on Computational Intelligence (SSCI 2020)
