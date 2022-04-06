@@ -17,6 +17,7 @@ principle.
 
 ### Teams Frightened of Failure Fail More: Modelling Reward Sensitivity in Teamwork. 
 **Siyuan Guo**, Soo Ling Lim, Peter J. Bentley
+
 Accepted at IEEE Symposium Series on Computational Intelligence (SSCI 2020)
 #### Abstract
 According to Gray’s Reinforcement Sensitivity
