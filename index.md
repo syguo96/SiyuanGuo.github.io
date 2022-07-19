@@ -11,6 +11,12 @@ My research interest lies in the intersection of causal inference and machine le
 
 Previously, I was a [Msc in Machine Learning](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/machine-learning-msc) student at University College London (UCL) and studied [Mathematics](https://www.maths.cam.ac.uk/) (Bsc + MMath) at University of Cambridge. I also used to work as a Quantitative Strategist at [Goldman Sachs International](https://www.goldmansachs.com/).
 
+# News
+* **July 2022**: Great to see fellow researchers in first [Cambridge ELLIS Machine Learning Summer School](http://www.ellis.eng.cam.ac.uk/summerschool/). 
+* **July 2022**: Happy to be back to [Statslab](https://www.statslab.cam.ac.uk/) Cambridge again to give a talk on "Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data" at Causal Reading Group hosted by [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/). 
+* **June 2022**: Excited to attend a invited in-person [ELLIS Theory Program Workshop](http://lcsl.mit.edu/courses/ellistheory/index.html) at beautiful Arenzano
+* **May 2022**: Great to share "Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data" at [OxCSML Seminar Talk](https://github.com/oxcsml/ML_bazaar/wiki/Seminar) 
+
 # Publications
 Please see my publication list [here](https://siyuanguo.com/publications/) or visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GRGyzn4AAAAJ).
 
