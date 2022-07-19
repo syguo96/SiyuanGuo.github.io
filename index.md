@@ -13,8 +13,8 @@ Previously, I was a [Msc in Machine Learning](https://www.ucl.ac.uk/prospective-
 
 # News
 * **July 2022**: Great to see fellow researchers in first [Cambridge ELLIS Machine Learning Summer School](http://www.ellis.eng.cam.ac.uk/summerschool/). 
-* **July 2022**: Happy to be back to [Statslab](https://www.statslab.cam.ac.uk/) Cambridge again to give a talk on "Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data" at Causal Reading Group hosted by [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/). 
-* **June 2022**: Excited to attend a invited in-person [ELLIS Theory Program Workshop](http://lcsl.mit.edu/courses/ellistheory/index.html) at beautiful Arenzano
+* **July 2022**: Happy to be back to [statslab](https://www.statslab.cam.ac.uk/) Cambridge to give a talk on "[Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data](https://arxiv.org/abs/2203.15756)" at Causal Reading Group hosted by [Qingyuan Zhao](http://www.statslab.cam.ac.uk/~qz280/). 
+* **June 2022**: Excited to attend an invited in-person [ELLIS Theory Program Workshop](http://lcsl.mit.edu/courses/ellistheory/index.html) at beautiful Arenzano
 * **May 2022**: Great to share "[Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data](https://arxiv.org/abs/2203.15756)" at [OxCSML Seminar Talk](https://github.com/oxcsml/ML_bazaar/wiki/Seminar) 
 
 # Publications
