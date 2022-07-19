@@ -21,7 +21,7 @@ Previously, I was a [Msc in Machine Learning](https://www.ucl.ac.uk/prospective-
 Please see my publication list [here](https://siyuanguo.com/publications/) or visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=GRGyzn4AAAAJ).
 
 # Contact
-Email: [syg26@cantab.ac.uk](mailto:syg26@cantab.ac.uk)
-Twitter: syguoML
+Email: [syg26@cantab.ac.uk](mailto:syg26@cantab.ac.uk)\
+Twitter: [syguoML](https://twitter.com/syguoML)
 
 
